@@ -29,8 +29,6 @@ Discord Id: 1292041679691579393
 ### Fun Fact! 🎉
 
 - I love learning new **programming languages** and constantly experimenting with **cutting-edge technologies**.
-- My favorite coding language right now: **JavaScript** (but I’m diving into **Rust** and **Python** too!)
-
 ---
 
 ### Get in Touch! 💬
