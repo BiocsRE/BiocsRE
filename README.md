@@ -1,8 +1,3 @@
-Ciao BiocsRE! It’s great to hear you’re passionate about coding and screen sharing—two powerful ways to connect and learn. Based on your bio, it sounds like you’re all about community-building and sharing knowledge. I can help you craft a more polished version of your readme if you're looking to make it even more engaging.
-
-Here's a potential revision for your readme, with a bit more structure and flow:
-
----
 
 ## About Me
 
