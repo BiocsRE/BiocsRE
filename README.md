@@ -40,5 +40,6 @@ If you have questions, want to collaborate, or simply want to chat about tech, f
 
 ## Badges 🎖️
 
-![GitHub followers](https://img.shields.io/github/followers/BiocsRE?style=social)
-![GitHub stars](https://img.shields.io/github/stars/BiocsRE?style=social)
+[![GitHub followers](https://img.shields.io/github/followers/BiocsRE?style=social)](https://github.com/BiocsRE)
+[![GitHub stars](https://img.shields.io/github/stars/BiocsRE?style=social)](https://github.com/BiocsRE)
+[![GitHub repos](https://img.shields.io/github/repositories/BiocsRE?style=social)](https://github.com/BiocsRE?tab=repositories)
