@@ -13,7 +13,7 @@ I believe in the power of **community** and **collaboration**, and I’m committ
 
 - **Coding**: From front-end frameworks to back-end development, I’m always learning something new. 🎯
 - **Screen Sharing**: I think screen sharing is an amazing way to teach, collaborate, and inspire others. 📹✨
-- Reverse Engineering: I enjoy decompiling and analyzing systems to understand their inner workings and improve them. 🔍
+- **Reverse Engineering**: I enjoy decompiling and analyzing systems to understand their inner workings and improve them. 🔍
 
 ---
 
