@@ -20,9 +20,7 @@ I believe in the power of **community** and **collaboration**, and I’m committ
 ### Contact Me 📫
 
 Feel free to reach out to me via the following platforms:
-
-[**Twitter**](https://twitter.com/) | [**GitHub**](https://github.com/BiocsRe) | [**LinkedIn**](https://linkedin.com/) 
-
+ 
 Discord Id: 1292041679691579393 
 
 ---
