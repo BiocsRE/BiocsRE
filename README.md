@@ -1,5 +1,5 @@
 
-## 👋 Hi, I'm BiocsRE (@ibiocs)
+## 👋 Hi, I'm BiocsRE (@notbiocs)
 
 ### About Me
 
